@@ -1,1 +1,1 @@
-console.log("App v1.0.0 - stable");
+console.log("App v1.0.1 - security fix (data leak patched)");
